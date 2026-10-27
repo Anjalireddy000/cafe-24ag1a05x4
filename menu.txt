@@ -1,4 +1,1 @@
-Tea 25
-Coffee 30
-Sandwich 50
-Juice 40
+Coffee 25
