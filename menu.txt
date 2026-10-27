@@ -1,0 +1,3 @@
+Tea 20
+Coffee 30
+Sandwich 50
